@@ -16,4 +16,5 @@ if(nivel > 9):
     mensagem = 'Você já está perto de se aposentar'
 
 print(mensagem)
+
     

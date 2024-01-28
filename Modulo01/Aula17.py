@@ -19,3 +19,4 @@ print(f"A Idade é maior ou igual a 18? {validador}")
 
 validador = (idade <= 18)
 print(f"A Idade é menor ou igual a 18? {validador}")
+
